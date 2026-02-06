@@ -5,3 +5,4 @@ bin/Xeno.dll.log
 *.tmp
 .DS_Store
 Thumbs.db
+src/
